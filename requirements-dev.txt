@@ -1,7 +1,7 @@
 flake8==4.0.1
 attrs==21.4.0
 iniconfig==1.1.1
-mccabe==0.6.1
+mccabe==0.7.0
 packaging==21.3
 pluggy==1.0.0
 py==1.11.0
