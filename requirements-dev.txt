@@ -1,4 +1,4 @@
-flake8==4.0.1
+flake8==5.0.0
 attrs==21.4.0
 iniconfig==1.1.1
 mccabe==0.7.0
